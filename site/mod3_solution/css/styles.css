@@ -1,0 +1,12 @@
+#collapsable-nav a {
+	background-color: yellow;
+}
+
+p {
+    background-color: rgb(255,170,255);
+}
+
+.my_section {
+	height: 1000px;
+	background-color: red;
+}
