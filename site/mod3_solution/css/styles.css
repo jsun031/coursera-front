@@ -2,11 +2,13 @@
 	background-color: yellow;
 }
 
-p {
+.my-section {
+	height: 2400px;
+	padding: 10px;
+	background-color: red;
+}
+
+p.passage-style {
     background-color: rgb(255,170,255);
 }
 
-.my_section {
-	height: 1000px;
-	background-color: red;
-}
