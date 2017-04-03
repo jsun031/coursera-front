@@ -1,11 +1,20 @@
 #collapsable-nav a {
 	background-color: yellow;
 }
-
+.container {
+	margin-left: 0px;	
+	padding-left: 0px;
+	border-left: 0px;
+}
+.navbar-header {
+	height: 80px;
+}
+.navbar-brand {	
+}
 .my-section {
 	height: 2400px;
 	padding: 10px;
-	background-color: red;
+	background-color: green;
 }
 
 p.passage-style {
