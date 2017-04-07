@@ -1,6 +1,9 @@
 #collapsable-nav a {
 	background-color: yellow;
 }
+#nav-list {
+	text-align: center;
+}
 .container {
 	margin-left: 0px;	
 	padding-left: 0px;
